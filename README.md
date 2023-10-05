@@ -1,2 +1,4 @@
-# K8s
-Learning k8s and kind
+# K8s basic commands
+
+# Kind basic commands
+
